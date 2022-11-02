@@ -1,4 +1,4 @@
-# S101
+# S101  HERÈNCIA I POLIMORFISME
 Tasca S1.01. Herència i Polimorfisme
 Endavant!
 
